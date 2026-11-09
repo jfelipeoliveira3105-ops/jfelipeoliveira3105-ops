@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👨‍💻 Olá! Eu sou João Felipe Oliveira
 
-<!--
-**jfelipeoliveira3105-ops/jfelipeoliveira3105-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Estudante de Programação | Desenvolvedor em formação
 
-Here are some ideas to get you started:
+Seja bem-vindo ao meu perfil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante e apaixonado por tecnologia, programação e desenvolvimento de soluções. Estou sempre buscando aprender novas ferramentas, desenvolver minhas habilidades e transformar ideias em projetos.
+
+---
+
+## 🧑‍💻 Sobre mim
+
+- 🎓 Estudante de programação.
+- 💻 Aprendendo desenvolvimento web e lógica de programação.
+- 🚀 Desenvolvendo projetos para aprimorar meus conhecimentos.
+- 📚 Sempre em busca de novos desafios e aprendizados.
+
+## 🛠️ Tecnologias e ferramentas
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- SQL
+- Arduino
+- Git e GitHub
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+## 📫 Contato
+
+- GitHub: https://github.com/SEU_USUARIO
+
+---
+
+⭐ Obrigado por visitar meu perfil! Vamos aprender e evoluir juntos.
