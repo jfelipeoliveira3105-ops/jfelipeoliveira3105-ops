@@ -18,10 +18,7 @@ Sou estudante e apaixonado por tecnologia, programação e desenvolvimento de so
 ## 🛠️ Tecnologias e ferramentas
 
 - HTML5
-- CSS3
 - JavaScript
-- Bootstrap
-- SQL
 - Arduino
 - Git e GitHub
 
